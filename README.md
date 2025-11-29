@@ -1,9 +1,9 @@
-# TSMC-Price-Driver-Analysis
+# 金融科技導論 期末報告
 
 基於機器學習之個股價格驅動因子解析：台積電三大面向模型預測誤差比較研究
 
-Project Status: 🚀 In Progress  
-Author: [您的名字/組別]  
+Project Status: In Progress  
+Author: [符秉義、何彥霖]  
 Target Stock: 台積電 (2330)  
 Data Source: FinLab Database  
 
